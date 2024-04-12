@@ -30,7 +30,7 @@ JavaScript
 Weather data is fetched from the provided db.json file.
 Weather icons are sourced from Font Awesome.
 Background images are sourced from Unsplash.
-Author
+# Author
 Chantale Keziah
 
  
