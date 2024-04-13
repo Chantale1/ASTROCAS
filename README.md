@@ -4,10 +4,15 @@ Astrocast is a simple weather application that allows users to get current weath
 
 # Features;
 Search: Users can search for a city using the input field and view its current weather forecast.
+
 Display: The application displays the temperature and weather description for the searched city.
+
 Weather Icons: Weather icons are dynamically updated based on the weather description.
+
 Carousel: A carousel at the top of the page showcases the weather for multiple cities.
+
 Responsive Design: The application is designed to work seamlessly across different devices and screen sizes.
+
 # Getting Started
 To run the Astrocast application locally:
 
